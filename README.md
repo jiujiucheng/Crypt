@@ -2,10 +2,10 @@
 ---
 Usage
 ---
-##encrypt
+## encrypt
 $encrypt = new Encrypter('yourkey','AES-256-CBC');
 $encrypt->encrypt($value);
 
-##decypt
+## decypt
 $encrypt = new Encrypter('yourkey','AES-256-CBC');
 $encrypt->encrypt($value);
