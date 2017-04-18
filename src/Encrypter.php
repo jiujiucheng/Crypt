@@ -4,7 +4,7 @@
  * author : edwin
  * createTime : 2017/4/17  下午2:48
  * version  : 1.0.0
- * copyright : Copyright Tftech
+ * 
  */
 class  Encrypter
 {
