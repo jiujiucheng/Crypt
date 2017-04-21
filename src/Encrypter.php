@@ -89,8 +89,7 @@ class  Encrypter
      */
     protected function getIvSize()
     {
-        $size = 16;
-        return $this->cipher == 'AES-256-CBC' ? 32 : $size;
+        return 16;
     }
 
 
